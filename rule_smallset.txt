@@ -1,0 +1,19 @@
+:
+#Lowercase
+l
+#Uppercase
+u
+#Capitalise first character
+c
+#Lowercase and !
+l $!
+#Uppercase and !
+u $!
+#Capitalise first character and #
+c $!
+#Lowercase and #
+l $!
+#Uppercase and #
+u $!
+#Capitalise first character and #
+c $!
